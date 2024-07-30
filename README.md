@@ -1,4 +1,4 @@
-# OpenAI: Curso 2
+# OpenAI
 
 ## ⚙️ Configuração do Ambiente
 
